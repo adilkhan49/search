@@ -1,6 +1,6 @@
 # search
 
-search will
+search.py will search a given directory for the search term provided using the command prompt
 
 # Requirements
 
@@ -8,21 +8,20 @@ python3
 
 # Usage
 
-copy and save the code as search.py in you home folder
 
-Open a command prompt
+1. Copy and save the code as search.py in you home folder
+2. Open a command prompt
+3. Search for a file part within a directory
 
-Search for a file part within a directory
-
-e.g. Search your home folder
+Search your home folder
 ```
 python search.py . whereareyou
 ```
 
-e.g. Search your Desktop
+Search your Desktop
 
 ```
-python search.py ./Desktop whereareyou
+python search.py ./Desktop "i'm lost"
 ```
 
 e.g. Search using full file path
