@@ -1,6 +1,8 @@
 # search
 
-search.py will search a given directory for the search term provided using the command prompt
+search.py will search a given directory for the search term provided using the command prompt.
+
+search term is case-insensitive
 
 ## Requirements
 
