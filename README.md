@@ -2,11 +2,11 @@
 
 search.py will search a given directory for the search term provided using the command prompt
 
-# Requirements
+## Requirements
 
 python3
 
-# Usage
+## Usage
 
 
 1. Copy and save the code as search.py in you home folder
